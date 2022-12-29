@@ -17,7 +17,7 @@
   font-weight: 100;
   height: 30px;
   line-height: 28.8px;
-  margin: 20px 0 0 0;
+  margin: 15px 0 0 0;
 }
 .Weather ul {
   margin: 0;
@@ -33,7 +33,7 @@
 .Weather img {
   height: 64px;
   width: 64px;
-  margin-right: 10px;
+  margin-right: 2px;
 }
 
 .Weather .temperature {
@@ -50,6 +50,6 @@
   font-weight: 400;
   position: relative;
   top: -34px;
-  margin-left: 5px;
+  margin-left: 2px;
   line-height: 1;
 }
